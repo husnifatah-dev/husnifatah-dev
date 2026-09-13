@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Husni Fatah
 
-<!--
-**husnifatah-dev/husnifatah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Systems Student | AI Full-Stack Developer Enthusiast**
 
-Here are some ideas to get you started:
+Selamat datang di profil GitHub saya! Saya sangat antusias dengan pengembangan web, integrasi AI, dan mengeksplorasi teknologi baru. Saat ini saya sedang fokus mengasah keterampilan untuk menjadi seorang *Full-Stack Developer* yang mahir memanfaatkan kecerdasan buatan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Apa yang sedang saya kerjakan?
+- 🎓 Menempuh pendidikan S1 Sistem Informasi di Universitas Terbuka.
+- 🚀 Sedang mengikuti program *AI Full-Stack Developer* di Asah 2026 oleh Dicoding Indonesia.
+- 💻 Aktif ngoding dan membangun proyek menggunakan **PHP**, **JavaScript**, dan **CSS**.
+- 🛠️ Mempelajari ekosistem *deployment* dan *monitoring* modern menggunakan Vercel, Render, dan Sentry.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** PHP, JavaScript, CSS, HTML
+- **Cloud & DevOps:** GitHub, Vercel, Render, Sentry
+- **Productivity & AI:** Atlassian, Google Gemini, Claude
+
+### 📊 GitHub Stats
+![Husni's GitHub stats](https://github-readme-stats.vercel.app/api?username=husnifatah-dev&show_icons=true&theme=tokyonight)
